@@ -1,9 +1,9 @@
 {
   "name": "@adarshbinomon/verify-user",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "used to verify user using jwt token",
   "main": "index.js",
-  
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
